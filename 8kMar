@@ -3,6 +3,8 @@
 http://8kott.cx:900/4988707176/3601266280/160734
 #EXTINF:-1 tvg-id="tv1.ba" tvg-name="BHT 1 HD" tvg-logo="https://lo1.in/LOGO/EXYU/BOSNIA/BHT1.png" group-title="BiH",BHT 1 HD
 http://8kott.cx:900/4988707176/3601266280/160800
+#EXTINF:-1 tvg-id="federalnatv.hr" tvg-name="FEDERALNA TV HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/federalnatv.png" group-title="BiH",FEDERALNA TV HD
+http://8kott.cx:900/4988707176/3601266280/174138
 #EXTINF:-1 tvg-id="ftv.ba" tvg-name="FTV FHD" tvg-logo="https://lo1.in/LOGO/EXYU/BOSNIA/FTV.png" group-title="BiH",FTV FHD
 http://8kott.cx:900/4988707176/3601266280/160757
 #EXTINF:-1 tvg-id="hayat.ba" tvg-name="HAYAT HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/hayat.png" group-title="BiH",HAYAT HD
@@ -7097,8 +7099,6 @@ http://8kott.cx:900/4988707176/3601266280/174106
 http://8kott.cx:900/4988707176/3601266280/174128
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="EXYU| DOKU TV HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/dokutv.png" group-title="EU | EXYU GENERAL",EXYU| DOKU TV HD
 http://8kott.cx:900/4988707176/3601266280/174129
-#EXTINF:-1 tvg-id="federalnatv.hr" tvg-name="EXYU| FEDERALNA TV HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/federalnatv.png" group-title="EU | EXYU GENERAL",EXYU| FEDERALNA TV HD
-http://8kott.cx:900/4988707176/3601266280/174138
 #EXTINF:-1 tvg-id="hntv.hr" tvg-name="EXYU| HNTV HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/hntv.png" group-title="EU | EXYU GENERAL",EXYU| HNTV HD
 http://8kott.cx:900/4988707176/3601266280/174172
 #EXTINF:-1 tvg-id="tvg-name=" tvg-name="EXYU| HRAM TV HD" tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/hram.png" group-title="EU | EXYU GENERAL",EXYU| HRAM TV HD
